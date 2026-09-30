@@ -54,7 +54,7 @@ async del()
     await this.page.frameLocator(this.framelocator).locator(this.delbtn).click()
 
 }
-
+// console.log("Input Files")
 
 
 }
